@@ -1,4 +1,5 @@
 print("Hello")
 x = "Hello"
 y = "World!"
-print(x + y)
+a = "2025"
+print(x + y + a)
